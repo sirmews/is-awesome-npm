@@ -31,6 +31,10 @@
   ],
   "author": "Nav Rao",
   "license": "Unlicense",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sirmews/is-awesome.git"
