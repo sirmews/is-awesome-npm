@@ -1,5 +1,5 @@
 {
-  "name": "is-awesome",
+  "name": "@sirmews/is-awesome",
   "version": "1.0.0",
   "module": "src/index.ts",
   "description": "Determines the level of awesomeness based on whether someone follows Jade",
