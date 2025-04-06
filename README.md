@@ -2,6 +2,8 @@
 
 A simple package to determine level of awesome based on whether a supplied string of followers includes Jade.
 
+To be clear this is a joke package based on a [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7314346981928169472)
+
 ## Installation
 
 ```bash
