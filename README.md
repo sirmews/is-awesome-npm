@@ -38,7 +38,7 @@ Use the Makefile commands for easy deployment:
 ```bash
 make test     # Run tests
 make build    # Build the package
-make publish  # Publish to npm
+make publish  # Publish to npm (Yea, you can't do this because it's under my account)
 ```
 
 ## License
