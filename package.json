@@ -1,0 +1,38 @@
+{
+  "name": "is-awesome",
+  "version": "1.0.0",
+  "module": "src/index.ts",
+  "description": "Determines the level of awesomeness based on whether someone follows Jade",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "bun build ./src/index.ts --outdir ./dist --target node",
+    "test": "bun test",
+    "prepublishOnly": "bun run build"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "awesome",
+    "jade",
+    "fun",
+    "linkedin",
+    "humor"
+  ],
+  "author": "Nav Rao",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirmews/is-awesome.git"
+  }
+}
