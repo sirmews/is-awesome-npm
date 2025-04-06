@@ -7,9 +7,9 @@ To be clear this is a joke package based on a [LinkedIn post](https://www.linked
 ## Installation
 
 ```bash
-npm install is-awesome
+npm install @sirmews/is-awesome
 # or
-bun install is-awesome
+bun install @sirmews/is-awesome
 ```
 
 ## Usage
